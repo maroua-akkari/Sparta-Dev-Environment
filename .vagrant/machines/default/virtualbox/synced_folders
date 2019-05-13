@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"/Users/tech-a36/Documents/engineering-29/DevOps/Sparta-Dev-Environment/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a36/Documents/engineering-29/DevOps/Sparta-Dev-Environment","disabled":false,"__vagrantfile":true}}}
