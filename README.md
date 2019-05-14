@@ -17,5 +17,5 @@ If all tests pass, this means you should now be able to run the app...
 To run this app:
 1. In the terminal clone this repository and go into the directory.
 2. Run the command `vagrant up`.
-3. Open up a web browser e.g. Chrome and enter `http://development.local` to see the app work.
+3. Open up a web browser e.g. Chrome and enter `http://development.local:3000` to see the app work.
 4. To end this session run the command `vagrant destroy` in the terminal.
